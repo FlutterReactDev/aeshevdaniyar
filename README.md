@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[linkedin.com/in/данияр-аешев-a3a537205](https://)">
+  <a href="https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%D1%80-%D0%B0%D0%B5%D1%88%D0%B5%D0%B2-a3a537205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
