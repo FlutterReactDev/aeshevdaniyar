@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/SvFocn0wNMx0iv2rYz/200w.webp?cid=ecf05e47l114tnmg4zvt3a6zqgoor6zus8g1zcc8wt7caimm&rid=200w.webp&ct=g" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
